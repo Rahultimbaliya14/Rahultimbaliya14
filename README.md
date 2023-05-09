@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul imbaliya</h1>
 <h3 align="center">Web Developer/Back-End Developer</h3>
 
-
 # 💫 About Me:
-🌱 # 💫 About Me:
 🌱 I’m currently learning :  Python , Dot-Net<br>💬 Ask me about :   Python(Django) ,  Php<br>📫 How to reach me :  rahultimbaliya555@gmail.com<br>👨‍💻 All of my projects are available at :  https://rahultimbaliya14.github.io/Personal-Portfolio/<br>📄 Know about my experiences : https://drive.google.com/file/d/1duu_goM0goeKISKvqYtzeu9K_eBBiVCJ/view?usp=share_link<br>⚡ Fun fact : Like to code
 
 
