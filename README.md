@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rahul Timbaliya</h1>
 <h3 align="center">Web Developer/Back-End Developer</h3>
 
+
+
+
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning :  Python , Dot-Net<br>💬 Ask me about :   Python(Django) ,  Php<br>📫 How to reach me :  rahultimbaliya555@gmail.com<br>👨‍💻 All of my projects are available at :  https://rahultimbaliya14.github.io/Personal-Portfolio/<br>📄 Know about my experiences : https://drive.google.com/file/d/1duu_goM0goeKISKvqYtzeu9K_eBBiVCJ/view?usp=share_link<br>⚡ Fun fact : Like to code
+</br>
+</br>
+ <img align="bottom" alt="GIF" id='image1' src="https://raw.githubusercontent.com/Rahultimbaliya14/Rahultimbaliya14/main/code.gif" width="500" height="320" style="margin-top:20px; border-radious:10px"/>
 
 
 ## 🌐 Socials:
