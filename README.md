@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning :  .Net, Angular, React , Dot-Net<br>💬 Ask me about :   .Net ,  Angular <br>📫 How to reach me :  rahultimbaliya555@gmail.com<br>👨‍💻 All of my projects are available at :  https://rahultimbaliya14.github.io/Personal-Portfolio/<br>📄 Know about my experiences : https://drive.google.com/file/d/1duu_goM0goeKISKvqYtzeu9K_eBBiVCJ/view?usp=share_link<br>⚡ Fun fact : Like to code
+🌱 I’m currently learning :  .Net, Angular, React, Python <br>💬 Ask me about :   .Net ,  Angular <br>📫 How to reach me :  rahultimbaliya555@gmail.com<br>👨‍💻 All of my projects are available at :  https://rahultimbaliya14.github.io/Personal-Portfolio/<br>📄 Know about my experiences : https://drive.google.com/file/d/1duu_goM0goeKISKvqYtzeu9K_eBBiVCJ/view?usp=share_link<br>⚡ Fun fact : Like to code and Explore the Technology 
 </br>
 </br>
  <img align="bottom" alt="GIF" id='image1' src="https://raw.githubusercontent.com/Rahultimbaliya14/Rahultimbaliya14/main/code.gif" width="500" height="320" style="margin-top:20px; border-radious:10px"/>
