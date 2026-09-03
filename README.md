@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahultimbaliya555@gmail.com)
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/edf83a56-a569-4750-a4c9-52a290ce5bb8.svg)](https://wakatime.com/@edf83a56-a569-4750-a4c9-52a290ce5bb8)
+[![wakatime](https://wakatime.com/badge/user/edf83a56-a569-4750-a4c9-52a290ce5bb8.svg?style=for-the-badge&color=0891b2&label_color=15181d)](https://wakatime.com/@edf83a56-a569-4750-a4c9-52a290ce5bb8)
 
 </div>
 
